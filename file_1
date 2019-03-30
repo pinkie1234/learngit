@@ -1,3 +1,5 @@
 git init 
 git add <file>
 git commit -m "......"
+
+git reset --hard HEAD～n(退回之前n个版本）
