@@ -18,5 +18,5 @@ creating a branch is quick and simple
 
 删除分支：git branch -d <name>
 
-查看分支合并情况
+查看分支合并情况:
 git log --garph
