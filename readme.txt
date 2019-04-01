@@ -2,7 +2,11 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index calle stage.
 git tracks changes of files.
-creating a branch is quick & simple
+<<<<<<< HEAD
+creating a branch is quick and simple
+=======
+creating a branch is quick and simple.
+>>>>>>> feature1
 
 分支：
 查看分支：git branch
