@@ -16,8 +16,21 @@ creating a branch is quick and simple
 
 合并某分支到当前分支：git merge <name>
 
+git stash
+
 删除分支：
 git branch -d <name>
 
 查看分支合并情况:
 git log --garph
+
+快速合并：
+git merge
+
+普通合并：
+git merge --no-ff -m "" <name>
+
+丢弃一个没有被合并过的分支，可以通过
+git branch -D <name>强行删除
+
+
