@@ -4,6 +4,9 @@ git has a mutable index calle stage.
 git tracks changes of files.
 creating a branch is quick and simple
 
+git add
+git commit -m ""
+git diff
 
 分支：
 查看分支：git branch
